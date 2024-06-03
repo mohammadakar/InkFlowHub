@@ -33,7 +33,7 @@ app.use(rateLimiting({
 
 //cors policy
 const allowedOrigins = process.env.NODE_ENV ==='production' 
-    ? ['https://production'] 
+    ? ['https://inkflowhub-1.onrender.com'] 
     : ['http://localhost:3000'];
 
 app.use(cors({
