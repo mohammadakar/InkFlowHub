@@ -43,6 +43,12 @@ app.use(cors({
     credentials: true
 }));
 
+app.use((req, res, next) => {
+    res.setHeader("Content-Security-Policy", "connect-src 'self' http://localhost:5000");
+    next();
+});
+
+
 // Routes
 app.use("/api/auth", require("./route/authRoute"));
 app.use("/api/users", require("./route/usersRoute"));
