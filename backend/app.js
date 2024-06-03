@@ -39,7 +39,7 @@ const allowedOrigins = process.env.NODE_ENV === 'production'
     : ['http://localhost:3000'];
 
 app.use(cors({
-    origin: allowedOrigins,
+    origin:['https://inkflowhub-1.onrender.com'],
     credentials: true
 }));
 
