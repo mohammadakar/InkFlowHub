@@ -57,7 +57,7 @@ export function createPost(newPost){
                 dispatch(postActions.clearIsPostCreated())
             },2000 );
         } catch (error) {
-            toast.error(error.response.data.message);
+            toast.error(error);
             dispatch(postActions.clearLoading());
         }
 
