@@ -47,6 +47,7 @@
 .home-container{
     padding: 0 30px;
     display: flex;
+    flex-direction: row;
     align-items: flex-start;
 }
 .home-see-posts-link{

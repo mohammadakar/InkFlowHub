@@ -85,34 +85,6 @@ const PostDetails = () => {
             </div>
             <p className="post-details-description">
                 {post?.description}
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-                Harum quibusdam molestiae incidunt et minus, temporibus accusamus 
-                totam? Laudantium cum culpa, 
-                nisi dolorum animi eum alias quisquam enim placeat repellat saepe.
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-                Harum quibusdam molestiae incidunt et minus, temporibus accusamus 
-                totam? Laudantium cum culpa, 
-                nisi dolorum animi eum alias quisquam enim placeat repellat saepe.
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-                Harum quibusdam molestiae incidunt et minus, temporibus accusamus 
-                totam? Laudantium cum culpa, 
-                nisi dolorum animi eum alias quisquam enim placeat repellat saepe.
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-                Harum quibusdam molestiae incidunt et minus, temporibus accusamus 
-                totam? Laudantium cum culpa, 
-                nisi dolorum animi eum alias quisquam enim placeat repellat saepe.
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-                Harum quibusdam molestiae incidunt et minus, temporibus accusamus 
-                totam? Laudantium cum culpa, 
-                nisi dolorum animi eum alias quisquam enim placeat repellat saepe.
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-                Harum quibusdam molestiae incidunt et minus, temporibus accusamus 
-                totam? Laudantium cum culpa, 
-                nisi dolorum animi eum alias quisquam enim placeat repellat saepe.
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-                Harum quibusdam molestiae incidunt et minus, temporibus accusamus 
-                totam? Laudantium cum culpa, 
-                nisi dolorum animi eum alias quisquam enim placeat repellat saepe.
             </p>
             <div className="post-details-icon-wrapper">
                 <div >
